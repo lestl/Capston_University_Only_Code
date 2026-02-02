@@ -1,1 +1,1 @@
-<header src="./AWS구성 (캡스톤).jpg"></header>
+<img src="AWS구성 (캡스톤).jpg">
