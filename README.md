@@ -1,8 +1,8 @@
 <img src="AWS구성 (캡스톤).jpg">
 
 <h2>Processing</h2>
-1. User PDF upload 
-2. PDF upload logic to Spring S3 
+<label>1. User PDF upload </label>
+<label>2. PDF upload logic to Spring S3 </label>
 3. PDF Bucket PUT event occurs and SQS trigger 
 4. PDF Event SQS message creation 
 5. Python Backend After receiving SQS message, download PDF from S3 and extract PDF words, normalization logic 
